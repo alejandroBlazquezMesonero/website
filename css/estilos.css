@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+body{
+    background-color: rgba(220, 220, 220, 0.651);
+}
+
+header nav ul li{
+    display: inline;
+    padding: 15px;
+}
+
+nav{
+    text-align: center;
+}
+
+.caja{
+    padding: 10px;
+    margin: 20px;
+    font-size: 1,5rem;
+    background-color:rgba(255, 0, 0, 0.329);
+}
+
+table{
+    width: 1000px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+img{
+    height: 105%;
+    width: 95%;
+}
+
+.caja1 img{
+    margin: 30px;
+    height: 500px;
+    width: 1000px;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.caja2 img{
+    margin: 30px;
+    height: 500px;
+    width: 1000px;
+    text-align: center;
+}
+
+
+p{
+   margin-left: 13rem;
+   margin-right: 23rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+
+}
+
+h2{
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+ul li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+label{
+    margin: 13rem;
+}
+
+button{
+    margin-left: 30rem;
+}
+
+
+
+
+.funciones img{
+   width: 250px;
+   height: 250px;
+    
+    
+
+}
+
+
+.funcion{
+    width: 200px;
+    height: 180px;
+
+}
+
+#enlace{
+
+    text-align: center;
+}
